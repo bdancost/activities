@@ -1,0 +1,15 @@
+print("Vamos montar seu crachá de programador!")
+
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+linguagem = input("Digite sua linguagem favorita: ")
+emoji = input("Digite um emoji que te representa: ")
+
+print()
+print("--------------------------")
+print("👩‍💻 Crachá do Dev")
+print("Nome:", nome)
+print("Idade:", idade)
+print("Linguagem favorita:", linguagem)
+print("Emoji:", emoji)
+print("--------------------------")
