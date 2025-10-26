@@ -355,8 +355,8 @@ O sistema possui tratamento para:
 ## 👨‍💻 Autor
 
 **Daniel Fernandes**
-- GitHub: <a href="https://github.com/bdancost" target="_blank">https://github.com/bdancost</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/daniel-fernandes1988/" target="_blank">LinkedIn</a> 
+- GitHub: <a href="https://github.com/bdancost" target="_blank"></a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/daniel-fernandes1988/" target="_blank"></a> 
 - Email: pr.danfc88@gmail.com
 
 
