@@ -354,19 +354,10 @@ O sistema possui tratamento para:
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+**Daniel Fernandes**
+- GitHub: [@seu-usuario](https://github.com/bdancost)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/daniel-fernandes1988/)
+- Email: pr.danfc88@gmail.com
 
-## 📄 Licença
 
-Este projeto é de código aberto e está sob a licença MIT.
 
-## 🙏 Agradecimentos
-
-Projeto desenvolvido como parte do aprendizado em desenvolvimento de software com Python, focado em automação industrial e boas práticas de programação.
-
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
