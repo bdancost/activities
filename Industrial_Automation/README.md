@@ -37,7 +37,8 @@ Para uma peça ser aprovada, ela deve atender **todos** os seguintes critérios:
 
 1. **Clone ou baixe o repositório**
 ```bash
-git clone https://github.com/seu-usuario/sistema-gestao-pecas.git
+git clone https://github.com/bdancost/activities/tree/0f4713b822c43ec9c4b40549474974bfedf38dd4/Industrial_Automation
+
 cd sistema-gestao-pecas
 ```
 
